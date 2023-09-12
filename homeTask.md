@@ -92,3 +92,9 @@ If you don't need specific **branch** any more than you may delite it by using c
 ```
 * You can't delite **current** branch! Because you are on this branch 
 * You can't delite **merged** branch! Because **unmerged branch** include **commits** that are not reachable from any of your branches.
+
+# ***Work with remote repisitory***
+## Create an account on GitHub
+## Create a lockal repository
+## Create a remote repository
+## LInk a lockal repository and remote
