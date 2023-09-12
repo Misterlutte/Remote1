@@ -108,4 +108,8 @@ To create an account in GitHub go [link](https://github.com/) and register.
 6. Type ```git commit``` with comment of changes.
 
 ## Create a remote repository
+* Go to **GitHub** and click on "+" than "create a new rep."
+* Than name you rep. 
+* Click on "Create repository"
+* Find a line: "…or push an existing repository from the command line" and copy all commands in terminal in **VS CODE**
 ## LInk a lockal repository and remote
