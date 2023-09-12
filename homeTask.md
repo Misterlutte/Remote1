@@ -151,10 +151,12 @@ git remote -v
  Also you may use some commands like 
  ```bash
  git push
- 
+
  git pull
  ```
 
 **Git push** - is pushing your data from locak repository to remote on **GitHub**
 
 **Git pull** - is pulling your data from remote repository on **GitHub** to local
+
+And one more thing: Don't forget to change a name of your main branch (it has to be **main** instead **master**)
