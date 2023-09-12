@@ -113,3 +113,19 @@ To create an account in GitHub go [link](https://github.com/) and register.
 * Click on "Create repository"
 * Find a line: "…or push an existing repository from the command line" and copy all commands in terminal in **VS CODE**
 ## LInk a lockal repository and remote
+With the help of the URL, we will link the repository. To link a repository, execute the following command.
+
+* ![screen]()
+
+The URL adres you may find on a pictire above.
+To check whether we linked our repository or not, execute the ```git remote``` command. You have to see this:
+* ![screen](https://www.toolsqa.com/gallery/Git/6.Local%20Repository%20Remote%20repository%20-%20Git%20Remote%20command%20to%20check%20if%20repository%20is%20connected%20with%20Origin.png)
+
+Use git ```remote -v``` command to view the same result along with the URL as shown below.
+* ![screen](https://www.toolsqa.com/gallery/Git/7.Local%20Repository%20Remote%20repository%20-%20Git%20Remote%20command%20to%20show%20link%20remote%20repository.png)
+
+## Also you may use some commands like ```git push``` and ```git pull```
+
+**Git push** - is pushing your data from locak repository to remote on **GitHub**
+
+**Git pull** - is pulling your data from remote repository on **GitHub** to local
