@@ -97,4 +97,8 @@ If you don't need specific **branch** any more than you may delite it by using c
 ## Create an account on GitHub
 ## Create a lockal repository
 ## Create a remote repository
+* Go to **GitHub** and click on "+" than "create a new rep."
+* Than name you rep. 
+* Click on "Create repository"
+* Find a line: "…or push an existing repository from the command line" and copy all commands in terminal in **VS CODE**
 ## LInk a lockal repository and remote
