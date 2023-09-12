@@ -117,26 +117,43 @@ to add the files (see the typical use page).
     git commit
  ```
   with comment of changes.
-  ![screen]()
+  * ![screen](screen1.jpg)
+  * ![screen](screen2.png)
+  
 
 ## Create a remote repository
 * Go to **GitHub** and click on "+" than "create a new rep."
 * Than name you rep. 
 * Click on "Create repository"
-* Find a line: "…or push an existing repository from the command line" and copy all commands in terminal in **VS CODE**
+* ![screen](smt1.jpg)
+* ![screen](smt2.jpg)
+* ![screen](smt3.jpg)
 ## LInk a lockal repository and remote
 With the help of the URL, we will link the repository. To link a repository, execute the following command.
 
-* ![screen]()
+* ![screen](smt4.png)
 
 The URL adres you may find on a pictire above.
-To check whether we linked our repository or not, execute the ```git remote``` command. You have to see this:
+To check whether we linked our repository or not, execute the
+ ```BASH
+ git remote
+ ``` 
+ command. You have to see this:
 * ![screen](https://www.toolsqa.com/gallery/Git/6.Local%20Repository%20Remote%20repository%20-%20Git%20Remote%20command%20to%20check%20if%20repository%20is%20connected%20with%20Origin.png)
 
-Use git ```remote -v``` command to view the same result along with the URL as shown below.
+Use a command to view the same result along with the URL as shown below. 
+```bash
+git remote -v
+``` 
+
 * ![screen](https://www.toolsqa.com/gallery/Git/7.Local%20Repository%20Remote%20repository%20-%20Git%20Remote%20command%20to%20show%20link%20remote%20repository.png)
 
-## Also you may use some commands like ```git push``` and ```git pull```
+ Also you may use some commands like 
+ ```bash
+ git push
+ 
+ git pull
+ ```
 
 **Git push** - is pushing your data from locak repository to remote on **GitHub**
 
