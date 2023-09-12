@@ -96,5 +96,12 @@ If you don't need specific **branch** any more than you may delite it by using c
 # ***Work with remote repisitory***
 ## Create an account on GitHub
 ## Create a lockal repository
+1. Create a directory to contain the project.
+2. Go into the new directory.
+3. Type ```git init``` .
+4. Write some **code**.
+5. Type ```git add``` to add the files (see the typical use page).
+6. Type ```git commit``` with comment of changes.
+
 ## Create a remote repository
 ## LInk a lockal repository and remote
